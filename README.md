@@ -1,8 +1,11 @@
+
 # MSPM0L1105 Dev Board
 
 A custom development/breakout board for Texas Instruments' **MSPM0L1105**, an ultra-low-power Arm Cortex-M0+ microcontroller. Designed in KiCad.
 
 ![PCB Render](https://github.com/sarthakchikte0312/MSPM0L1105_Dev_Board/blob/main/images/10.png?raw=true)
+
+
 
 ## Why the MSPM0L1105?
 
@@ -18,6 +21,8 @@ The MSPM0L1105 is part of TI's MSPM0 family, and it's a solid choice for low-pow
 
 This dev board exists to make it easy to bring up, test, and prototype around the MSPM0L1105 — breaking out its I/O, providing power regulation, and exposing debug headers — before committing the MCU to a larger system design.
 
+<img width="1675" height="892" alt="image" src="https://github.com/user-attachments/assets/540301ac-fca1-4186-9bcd-f1ca3d00cca2" />
+```
 ## Repository Structure
 
 ```
